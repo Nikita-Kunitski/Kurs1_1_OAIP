@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "через ук-тели", "через ук-тели\через ук-тели.vcxproj", "{8081450D-AB89-4593-B414-0B3091D44850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8081450D-AB89-4593-B414-0B3091D44850}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8081450D-AB89-4593-B414-0B3091D44850}.Debug|Win32.Build.0 = Debug|Win32
+		{8081450D-AB89-4593-B414-0B3091D44850}.Release|Win32.ActiveCfg = Release|Win32
+		{8081450D-AB89-4593-B414-0B3091D44850}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
